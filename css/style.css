@@ -203,19 +203,6 @@ section {
 }
 
 /*--------------------- OUR STRATEGY ---------------------------*/
-.strategy-title {
-  /*position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;*/
-}
-
 .strategy-list {
   display: flex;
   justify-content: center;
@@ -657,12 +644,6 @@ section {
   color: rgba(46, 47, 66, 0.4);
 }
 
-.modal-field {
-}
-.modal-field-policy {
-}
-.modal-check {
-}
 .modal-policy-label {
   font-size: 12px;
   line-height: 117%;
